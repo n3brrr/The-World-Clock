@@ -63,6 +63,3 @@ Creado con amor, café y algo de insomnio por [n3brrr](https://github.com/n3brrr
 MIT — ¡Haz lo que quieras, pero dale una estrella si te gusta! ⭐
 
 ---
-
-¿Listo para conquistar las zonas horarias?  
-¡Dale un vistazo, compártelo y presume de tu reloj mundial!
